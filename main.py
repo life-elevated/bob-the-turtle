@@ -1,9 +1,9 @@
-#! Python3
+#! python3
 import turtle
 import tkinter
 import tkinter as tk
 from tkinter import ttk
-
+# I was playing around with the kids :P
 #############################  My Turtle is named bob ##################################
 x = turtle.Screen()
 x.title('Dads walking turtle')
